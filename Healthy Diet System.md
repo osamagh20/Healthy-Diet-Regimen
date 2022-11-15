@@ -1,4 +1,4 @@
-# Healthy-Diet-Regimen
+# Healthy Diet System
 ## Introduction
 The healthy diet will allow the improvement and development of clients’ health, 
 by subscribing to this system and choosing the subscription period (weekly, monthly, yearly). 
