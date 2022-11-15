@@ -1,3 +1,8 @@
+<div>
+ <img src="https://user-images.githubusercontent.com/107370302/201933530-499c57b7-cd81-4731-8b7b-cacd8eb45246.jpg" width=400 height=350>
+ <img src="https://user-images.githubusercontent.com/107370302/201933536-14f0e331-1549-46df-88bd-6dd0aadb6775.png" width=400 height=350>
+ </div>
+
 # Healthy Diet System
 ## Introduction
 The healthy diet will allow the improvement and development of clients’ health, 
